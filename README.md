@@ -1,0 +1,1 @@
+Ini adalah proyek pertama saya menggunakan Git dan GitHub.  
